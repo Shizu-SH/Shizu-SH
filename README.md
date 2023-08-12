@@ -19,8 +19,11 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fabri115/Fabri115/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf91a4&height=120&section=footer"/>
+
 <h2 align="center"> MIS PROYECTOS </h2>
 
 <a href="https://github.com/Shizu-SH/Elmo_Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Shizu-SH&repo=Elmo_Bot&theme=merko)</a>
