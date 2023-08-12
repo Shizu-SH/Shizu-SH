@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## ¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
+## ¡Hola! Bienvenido(a) te presento mí Perfil ✨
 > "The best Thief."
 ### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
 > Si desea contactarme lo puede hacer sólo por Instagram
